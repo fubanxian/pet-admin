@@ -3,8 +3,14 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-
 Vue.config.productionTip = false
+
+//view-ui
+import iview from 'view-design'
+import 'view-design/dist/styles/iview.css'
+Vue.use(iview)
+
+// import 'utils/rem'
 
 /* eslint-disable no-new */
 new Vue({

@@ -1,0 +1,118 @@
+[
+  {
+    "displayName": "系统管理",
+    "icon": "md-construct",
+    "children": [
+      {
+        "displayName": "管理员管理",
+        "link": "/manager/list",
+        "mid": 0
+      },
+      {
+        "displayName": "角色管理",
+        "link": "/role/list",
+        "mid": 0
+      },
+      {
+        "displayName": "教师管理",
+        "link": "/teacher/list",
+        "mid": 0
+      },
+      {
+        "displayName": "桌椅归属管理",
+        "link": "/agency/list",
+        "mid": 0
+      },
+      {
+        "displayName": "APP版本管理",
+        "link": "/version/list",
+        "mid": 0
+      }
+    ]
+  },
+  {
+    "displayName": "用户管理",
+    "icon": "md-person",
+    "mid": 1,
+    "children": [
+      {
+        "displayName": "用户列表",
+        "link": "/user/list",
+        "mid": 0
+      },
+      {
+        "displayName": "平板用户列表",
+        "link": "/padUser/list",
+        "mid": 0
+      },
+      {
+        "displayName": "作业详情",
+        "link": "/work/list",
+        "mid": 0
+      },
+      {
+        "displayName": "批阅统计",
+        "link": "/check/list",
+        "mid": 0
+      }
+    ]
+  },
+  {
+    "displayName": "会员管理",
+    "icon": "md-cash",
+    "mid": 1,
+    "children": [
+      {
+        "displayName": "价格订单管理",
+        "link": "/order/list",
+        "mid": 0
+      }
+    ]
+  },
+  {
+    "displayName": "桌椅管理",
+    "icon": "md-settings",
+    "mid": 1,
+    "children": [
+      {
+        "displayName": "桌椅列表",
+        "link": "/device/list",
+        "mid": 0
+      }
+    ]
+  },
+  {
+    "displayName": "内容管理",
+    "icon": "md-book",
+    "mid": 1,
+    "children": [
+      {
+        "displayName": "网校管理",
+        "link": "/school/list",
+        "mid": 0
+      },
+      {
+        "displayName": "平板视频管理",
+        "link": "/video/list",
+        "mid": 0
+      },
+      {
+        "displayName": "系统文章管理",
+        "link": "/page/list",
+        "mid": 0
+      }
+    ]
+  },
+  {
+    "displayName": "互动管理",
+    "icon": "md-contacts",
+    "mid": 1,
+    "children": [
+      {
+        "displayName": "意见反馈",
+        "link": "/advice/list",
+        "mid": 0
+      }
+    ]
+  }
+]
